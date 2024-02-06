@@ -1,0 +1,7 @@
+transformers==4.37.2
+chardet==5.2.0
+tensorflow==2.15.0
+setuptools==65.5.0
+requests==2.9.1
+wheel==0.42.0
+# keras==2.15.0 included with TF
